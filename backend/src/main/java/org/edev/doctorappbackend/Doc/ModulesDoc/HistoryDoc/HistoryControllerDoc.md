@@ -6,4 +6,4 @@
 <h3>GET /api/history</h3>
 <p><strong>Descrição:</strong> Retorna uma lista com o histórico de agendamentos do usuário autenticado.</p>
 <p><strong>Requisitos:</strong> Header com token JWT para autenticação.</p>
-<p><strong>Resposta:</strong> Lista de <a href="#HistoryDto">HistoryDto</a> (200 OK)</p>
+<p><strong>Resposta:</strong> Lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/HistoryDoc/HistoryDtoDoc.md">HistoryDto</a> (200 OK)</p>

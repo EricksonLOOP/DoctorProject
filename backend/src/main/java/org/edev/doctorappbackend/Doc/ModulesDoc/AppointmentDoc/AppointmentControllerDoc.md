@@ -5,8 +5,8 @@
 
 <h3>POST /api/appointment/create</h3>
 <p><strong>Descrição:</strong> Cria um novo agendamento para o médico autenticado.</p>
-<p><strong>Body:</strong> <a href="#CreateAppointmentDto">CreateAppointmentDto</a></p>
-<p><strong>Resposta:</strong> <a href="#Appointment">Appointment</a> (201 Created)</p>
+<p><strong>Body:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/CreateAppointmentDtoDoc.md">CreateAppointmentDto</a></p>
+<p><strong>Resposta:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a> (201 Created)</p>
 
 <hr>
 
@@ -26,8 +26,8 @@
 <ul>
   <li><code>appointmentId</code> (UUID) – ID do agendamento</li>
 </ul>
-<p><strong>Body:</strong> <a href="#UpdateAppointmentDto">UpdateAppointmentDto</a></p>
-<p><strong>Resposta:</strong> <a href="#Appointment">Appointment</a> (200 OK)</p>
+<p><strong>Body:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/UpdateAppointmentDtoDoc.md">UpdateAppointmentDto</a></p>
+<p><strong>Resposta:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a> (200 OK)</p>
 
 <hr>
 
@@ -37,7 +37,7 @@
 <ul>
   <li><code>appointmentId</code> (UUID) – ID do agendamento</li>
 </ul>
-<p><strong>Resposta:</strong> <a href="#Appointment">Appointment</a> (200 OK)</p>
+<p><strong>Resposta:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a> (200 OK)</p>
 
 <hr>
 
@@ -47,7 +47,7 @@
 <ul>
   <li><code>appointmentId</code> (UUID) – ID do agendamento</li>
 </ul>
-<p><strong>Resposta:</strong> <a href="#Appointment">Appointment</a> (200 OK)</p>
+<p><strong>Resposta:</strong> <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a> (200 OK)</p>
 
 <hr>
 
@@ -57,4 +57,4 @@
 <ul>
   <li><code>doctorId</code> (UUID) – ID do médico</li>
 </ul>
-<p><strong>Resposta:</strong> Lista de <a href="#AppointmentDto">AppointmentDto</a> (200 OK)</p>
+<p><strong>Resposta:</strong> Lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentDtoDoc.md">AppointmentDto</a> (200 OK)</p>
