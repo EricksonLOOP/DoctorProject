@@ -64,6 +64,7 @@ As credenciais de conexão são fornecidas automaticamente no ambiente de desenv
   <li><strong>Usuário:</strong> <code>neon_user</code></li>
   <li><strong>Senha:</strong> <code>neon_password</code></li>
   <li><strong>Banco de dados:</strong> <code>doctorapp_db</code></li>
+  <b>Não colocadas as credênciais verdadeiras por motivos de segurança</b>
 </ul>
 <p>
 A conexão é automática por meio do arquivo <code>application.properties</code> do Spring Boot.
