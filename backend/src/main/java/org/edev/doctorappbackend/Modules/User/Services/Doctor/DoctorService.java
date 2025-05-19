@@ -6,6 +6,5 @@ import java.util.UUID;
 
 public interface DoctorService {
     DoctorsDto getDoctors(int page);
-
     DoctorDto getDoctor(UUID id);
 }

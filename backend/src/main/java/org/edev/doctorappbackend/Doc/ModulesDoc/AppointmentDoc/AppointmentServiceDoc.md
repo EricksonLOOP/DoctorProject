@@ -1,4 +1,4 @@
-<h1>Interface: AppointmentService</h1>
+<h1>AppointmentService</h1>
 <p>Define as operações disponíveis para manipulação de agendamentos (appointments) no sistema.</p>
 
 <h2>Métodos</h2>
