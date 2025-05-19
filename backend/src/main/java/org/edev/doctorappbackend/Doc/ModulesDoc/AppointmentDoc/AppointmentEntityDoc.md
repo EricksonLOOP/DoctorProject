@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td><code>user</code></td>
-      <td><a href="#User">User</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserEntityDoc.md">User</a></td>
       <td>Representa o paciente que agendou o horário. Pode ser <code>null</code> caso o horário esteja disponível.</td>
     </tr>
   </tbody>

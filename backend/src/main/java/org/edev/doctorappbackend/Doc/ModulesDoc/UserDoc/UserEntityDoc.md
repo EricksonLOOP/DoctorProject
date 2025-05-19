@@ -38,12 +38,12 @@
     </tr>
     <tr>
       <td><code>appointments</code></td>
-      <td>Lista de <a href="#Appointment">Appointment</a></td>
+      <td>Lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a></td>
       <td>Agendamentos vinculados ao usuário. Relacionamento <code>OneToMany</code>.</td>
     </tr>
     <tr>
       <td><code>histories</code></td>
-      <td>Lista de <a href="#History">History</a></td>
+      <td>Lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/HistoryDoc/HistoryEntityDoc.md">History</a></td>
       <td>Histórico médico compartilhado com o usuário. Relacionamento <code>ManyToMany</code>.</td>
     </tr>
   </tbody>

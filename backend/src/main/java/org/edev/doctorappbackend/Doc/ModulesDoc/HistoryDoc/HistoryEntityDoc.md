@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td><code>users</code></td>
-      <td>Lista de <a href="#User">User</a></td>
+      <td>Lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserEntityDoc.md">User</a></td>
       <td>Usuários vinculados a este histórico. Relacionamento <code>ManyToMany</code>.</td>
     </tr>
   </tbody>
