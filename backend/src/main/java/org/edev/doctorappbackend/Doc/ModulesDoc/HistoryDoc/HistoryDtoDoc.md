@@ -13,17 +13,17 @@
   <tbody>
     <tr>
       <td>history</td>
-      <td><a href="#HistoryData">HistoryData</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/HistoryDoc/HistoryDataDoc.md">HistoryData</a></td>
       <td>Dados essenciais do histórico do agendamento.</td>
     </tr>
     <tr>
       <td>patient</td>
-      <td><a href="#UserDto">UserDto</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserDtoDoc.md">UserDto</a></td>
       <td>Informações do paciente relacionado ao histórico.</td>
     </tr>
     <tr>
       <td>doctor</td>
-      <td><a href="#UserDto">UserDto</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserDtoDoc.md">UserDto</a></td>
       <td>Informações do médico relacionado ao histórico.</td>
     </tr>
   </tbody>

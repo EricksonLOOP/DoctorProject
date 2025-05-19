@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td><code>role</code></td>
-      <td><a href="#Role">Role</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserEntityRoleDoc.md">Role</a></td>
       <td>Papel do usuário no sistema, podendo ser, por exemplo, paciente ou médico.</td>
     </tr>
     <tr>
@@ -51,7 +51,7 @@
 
 <h2>Métodos auxiliares</h2>
 <ul>
-  <li><code>fromUserToUserDto()</code>: Converte a entidade <code>User</code> para um DTO simplificado contendo <code>id</code>, <code>name</code>, <code>email</code> e <a href="#Appointment">appointments</a>.</li>
+  <li><code>fromUserToUserDto()</code>: Converte a entidade <code>User</code> para um DTO simplificado contendo <code>id</code>, <code>name</code>, <code>email</code> e <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">appointments</a>.</li>
   <li><code>fromUserToUserDtoWithAppointmentDtoList(UserRepository userRepository)</code>: Converte o usuário para um DTO contendo os dados básicos e os agendamentos formatados como <code>AppointmentDto</code>, com dados do médico incluídos.</li>
-  <li><code>getAppointmentDtoFromUserToAppointmentDto(UserRepository userRepository)</code>: Converte a lista de <a href="#Appointment">appointments</a> do usuário para <code>AppointmentDto</code>, incluindo informações do médico.</li>
+  <li><code>getAppointmentDtoFromUserToAppointmentDto(UserRepository userRepository)</code>: Converte a lista de <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">appointments</a> do usuário para <code>AppointmentDto</code>, incluindo informações do médico.</li>
 </ul>

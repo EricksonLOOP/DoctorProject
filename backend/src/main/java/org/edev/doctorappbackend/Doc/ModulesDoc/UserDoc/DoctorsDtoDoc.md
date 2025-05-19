@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>doctors</td>
-      <td>List&lt;<a href="#DoctorDto">DoctorDto</a>&gt;</td>
+      <td>List&lt;<a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/DoctorDtoDoc.md">DoctorDto</a>&gt;</td>
       <td>Lista de médicos na página atual.</td>
     </tr>
     <tr>

@@ -12,11 +12,11 @@
   <tbody>
     <tr>
       <td><code>DoctorsDto getDoctors(int page)</code></td>
-      <td>Retorna uma lista paginada de médicos encapsulada em <a href="#DoctorsDto">DoctorsDto</a>, de acordo com o número da página especificado.</td>
+      <td>Retorna uma lista paginada de médicos encapsulada em <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/DoctorDtoDoc.md">DoctorsDto</a>, de acordo com o número da página especificado.</td>
     </tr>
     <tr>
       <td><code>DoctorDto getDoctor(UUID id)</code></td>
-      <td>Retorna os detalhes do médico identificado por <code>id</code> na forma de um objeto <a href="#DoctorDto">DoctorDto</a>.</td>
+      <td>Retorna os detalhes do médico identificado por <code>id</code> na forma de um objeto <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/DoctorDtoDoc.md">DoctorDto</a>.</td>
     </tr>
   </tbody>
 </table>

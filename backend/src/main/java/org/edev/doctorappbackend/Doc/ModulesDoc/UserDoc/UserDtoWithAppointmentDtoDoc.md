@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>appointments</td>
-      <td>List&lt;<a href="#AppointmentDto">AppointmentDto</a>&gt;</td>
+      <td>List&lt;<a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentDtoDoc.md">AppointmentDto</a>&gt;</td>
       <td>Lista de agendamentos detalhados do usuário.</td>
     </tr>
   </tbody>

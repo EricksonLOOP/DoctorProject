@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td>type</td>
-      <td><a href="#Role">Role</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserEntityRoleDoc.md">Role</a></td>
       <td>Tipo do usuário (ex: DOCTOR, PATIENT).</td>
       <td>Obrigatório.</td>
     </tr>

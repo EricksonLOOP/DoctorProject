@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <td><code>Appointment createAppointment(CreateAppointmentDto createAppointmentDto, UUID doctorId)</code></td>
-      <td>Cria um novo agendamento para o médico identificado por <code>doctorId</code> usando os dados fornecidos em <a href="#CreateAppointmentDto">CreateAppointmentDto</a>.</td>
+      <td>Cria um novo agendamento para o médico identificado por <code>doctorId</code> usando os dados fornecidos em <a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/CreateAppointmentDtoDoc.md">CreateAppointmentDto</a>.</td>
     </tr>
     <tr>
       <td><code>void deleteAppointment(UUID appointmentId, UUID doctorId)</code></td>

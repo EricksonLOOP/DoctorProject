@@ -13,12 +13,12 @@
   <tbody>
     <tr>
       <td>appointment</td>
-      <td><a href="#Appointment">Appointment</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/AppointmentDoc/AppointmentEntityDoc.md">Appointment</a></td>
       <td>Objeto que representa os detalhes do agendamento.</td>
     </tr>
     <tr>
       <td>user</td>
-      <td><a href="#UserDto">UserDto</a></td>
+      <td><a href="https://github.com/EricksonLOOP/DoctorProject/blob/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc/UserDoc/UserDtoDoc.md">UserDto</a></td>
       <td>Objeto com informações resumidas do usuário associado ao agendamento.</td>
     </tr>
   </tbody>
