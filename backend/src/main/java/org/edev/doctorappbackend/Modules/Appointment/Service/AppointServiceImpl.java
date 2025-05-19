@@ -104,7 +104,6 @@ public class AppointServiceImpl implements AppointmentService{
                 .findAppointmentByIdAndDoctorId(appointmentId, doctorId)
                 .orElseThrow(()-> new ResourceNotFoundException("Agendamento não encontrado"));
         appointment.setAvailable(true);
-        appointment.setScheduledDate(null);
         appointment.setUser(null);
         return appointmentRepository.save(appointment);
     }

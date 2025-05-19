@@ -31,6 +31,20 @@ public class SecurityConfig {
                 .csrf(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/api/auth/**").permitAll()
+                        .requestMatchers(
+                                "/api/appointment/unschedule/",
+                                "/api/appointment/create/",
+                                "/api/appointment/delete/",
+                                "/api/appointment/update/"
+                        ).hasAnyAuthority("ROLE_DOCTOR")
+                        .requestMatchers(
+                                "/api/appointment/schedule/")
+                        .hasAuthority("ROLE_PATIENT")
+                        .requestMatchers(
+                                "/api/doctors/**",
+                                "/api/history/**",
+                                "/api/user/**")
+                        .hasAnyAuthority("ROLE_DOCTOR", "ROLE_PATIENT")
                         .anyRequest().authenticated()
                 )
                 .sessionManagement(session -> session
