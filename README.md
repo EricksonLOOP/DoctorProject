@@ -3,7 +3,7 @@
 <br/>
 <i>Desenvolvido por: Erickson A. C. Dias</i>
 <hr/>
-<h3>Documentação completa <a href="https://github.com/EricksonLOOP/DoctorProject/tree/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc">aqui</a>.</h3>
+<h3>Documentação completa <a href="https://github.com/EricksonLOOP/DoctorProject/tree/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc">aqui</a>, ou pelo link: https://github.com/EricksonLOOP/DoctorProject/tree/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc.</h3>
 <h2>Como rodar o projeto?</h2>
 <p>Veja abaixo como preparar o ambiente para rodar a aplicação localmente sem erros.</p>
 
@@ -13,7 +13,7 @@ A opção com Docker é mais viável devido à versatilidade proporcionada pela 
 </p>
 <p><strong>Passos para rodar o frontend e backend com Docker:</strong></p>
 <ol>
-  <li>Certifique-se de ter o <code>Docker</code> instalado. Caso não tenha, baixe-o <a href="https://docs.docker.com/get-started/introduction/get-docker-desktop/">aqui</a>, ou pelo link: https://github.com/EricksonLOOP/DoctorProject/tree/main/backend/src/main/java/org/edev/doctorappbackend/Doc/ModulesDoc.</li>
+  <li>Certifique-se de ter o <code>Docker</code> instalado. Caso não tenha, baixe-o <a href="https://docs.docker.com/get-started/introduction/get-docker-desktop/">aqui</a>.</li>
   <li>Clone o repositório do projeto.</li>
   <li>No terminal, navegue até a pasta <code>/DoctorProject</code>.</li>
   <li>Execute o comando <code>docker compose up</code> para criar os containers do Backend (Java) e do Frontend (Next.js).</li>
